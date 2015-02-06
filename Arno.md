@@ -24,6 +24,7 @@ Develop a single underlying system that allows for a unified experience across p
 
 
 # Principles
+原理
 
 ## Material is the metaphor
 物質は概念である
