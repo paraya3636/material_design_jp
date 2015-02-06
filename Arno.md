@@ -26,9 +26,12 @@ Develop a single underlying system that allows for a unified experience across p
 # Principles
 
 ## Material is the metaphor
+物質は概念である
+
 A material metaphor is the unifying theory of a rationalized space and a system of motion.
 The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.
-物質的な隠喩は、合理化されたスペースおよび動作のシステムの一体化理論である。素材は、技術的に進められて、想像力と魔法のために開いていてまだ、触覚の現実〈紙とインクの研究により引き起こされた〉に基づいている。
+物質という概念は、合理化されたスペースおよび動作のシステムの一体化理論である。
+物質は、技術的に進められて、想像力と魔法のために開いていてまだ、触覚の現実〈紙とインクの研究により引き起こされた〉に基づいている。
 
 Surfaces and edges of the material provide visual cues that are grounded in reality.
 The use of familiar tactile attributes helps users quickly understand affordances.
