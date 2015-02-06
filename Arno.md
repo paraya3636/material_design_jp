@@ -26,11 +26,16 @@ Develop a single underlying system that allows for a unified experience across p
 # Principles
 
 ## Material is the metaphor
-A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.
+A material metaphor is the unifying theory of a rationalized space and a system of motion.
+The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.
+物質的な隠喩は、合理化されたスペースおよび動作のシステムの一体化理論である。素材は、技術的に進められて、想像力と魔法のために開いていてまだ、触覚の現実〈紙とインクの研究により引き起こされた〉に基づいている。
 
-Surfaces and edges of the material provide visual cues that are grounded in reality. The use of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physical world, without breaking the rules of physics.
+Surfaces and edges of the material provide visual cues that are grounded in reality.
+The use of familiar tactile attributes helps users quickly understand affordances.
+Yet the flexibility of the material creates new affordances that supercede those in the physical world, without breaking the rules of physics.
 
-The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space and in relation to each other. Realistic lighting shows seams, divides space, and indicates moving parts.
+The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space and in relation to each other.
+Realistic lighting shows seams, divides space, and indicates moving parts.
 
 
 ## Bold, graphic, intentional
