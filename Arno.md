@@ -19,6 +19,8 @@ Create a visual language that synthesizes classic principles of good design with
 
 Develop a single underlying system that allows for a unified experience across platforms and device sizes. Mobile precepts are fundamental, but touch, voice, mouse, and keyboard are all ﬁrst-class input methods.
 
+プラットフォームと機器サイズを横切る統合された経験を可能にする単一の横たわりシステムを開発しなさい。
+モバイルの指針は根本的であるけれども、感触、声、マウス、およびキーボードは、すべてのﬁrst-クラスインプット方法である。
 
 
 # Principles
